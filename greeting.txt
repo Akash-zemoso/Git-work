@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 added
 appended
 Added
 
+=======
+Akash welcomes you
+kumar
+>>>>>>> parent of 53bd4e4 (conflict solved)
