@@ -5,11 +5,13 @@ Added
 <<<<<<< HEAD
 =======
 Akash welcomes you
-<<<<<<< HEAD
 >>>>>>> parent of ce1e49a (Appended)
+<<<<<<< HEAD
 =======
 kumar
 >>>>>>> parent of 53bd4e4 (conflict solved)
 >>>>>>> parent of 6987e79 (Revert "ADDED")
 =======
 >>>>>>> parent of a58fed4 (New)
+=======
+>>>>>>> parent of 428cd1c (New3)
