@@ -5,4 +5,9 @@ Added
 
 =======
 Akash welcomes you
+<<<<<<< HEAD
 >>>>>>> parent of ce1e49a (Appended)
+=======
+kumar
+>>>>>>> parent of 53bd4e4 (conflict solved)
+>>>>>>> parent of 6987e79 (Revert "ADDED")
