@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 added
 appended
 Added
 
+=======
+Akash welcomes you
+>>>>>>> parent of ce1e49a (Appended)
